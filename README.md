@@ -1,5 +1,5 @@
 # ITS-275-ProjectMK
-A project for ITS 275 at Campbell University by Kaitlyn Keesee and Malia McKay.
+A Java project for ITS 275 at Campbell University by Kaitlyn Keesee and Malia McKay.
 Both students worked together to write this code. 
 
 This project creates a "Customer Viewer" that prints information about customers 1001, 1002, and 1003 when these numbers are entered by the user. 
